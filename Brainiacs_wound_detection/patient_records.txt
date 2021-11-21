@@ -1,0 +1,6 @@
+{}
+{}
+{}
+{}
+{"Name": null, "Age": null, "Ulcer Temp": null, "Body Temp": null, "Day": null}
+{}
